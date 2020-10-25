@@ -2,6 +2,10 @@ body {
   background-color: lightgoldenrodyellow;
 }
 
+section {
+  padding: 20px;
+}
+
 .container {
   font-weight: italic;
 }
@@ -11,6 +15,12 @@ body {
 }
 
 #welcome {
+  height: 800px;
   background-image: url("assets/welcome-img.jpg");
   background-size: cover;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: space-around;
 }
