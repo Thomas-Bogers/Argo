@@ -1,0 +1,16 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+.container {
+  font-weight: italic;
+}
+
+#history {
+  font-weight: bold;
+}
+
+#welcome {
+  background-image: url("assets/welcome-img.jpg");
+  background-size: cover;
+}
